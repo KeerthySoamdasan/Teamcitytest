@@ -1,0 +1,7 @@
+C:\Users\ksomadas\Documents\GitHub\Teamcitytest\TestTeamCity\TestTeamCity\bin\Debug\TestTeamCity.exe.config
+C:\Users\ksomadas\Documents\GitHub\Teamcitytest\TestTeamCity\TestTeamCity\bin\Debug\TestTeamCity.exe
+C:\Users\ksomadas\Documents\GitHub\Teamcitytest\TestTeamCity\TestTeamCity\bin\Debug\TestTeamCity.pdb
+C:\Users\ksomadas\Documents\GitHub\Teamcitytest\TestTeamCity\TestTeamCity\obj\Debug\TestTeamCity.csprojAssemblyReference.cache
+C:\Users\ksomadas\Documents\GitHub\Teamcitytest\TestTeamCity\TestTeamCity\obj\Debug\TestTeamCity.csproj.CoreCompileInputs.cache
+C:\Users\ksomadas\Documents\GitHub\Teamcitytest\TestTeamCity\TestTeamCity\obj\Debug\TestTeamCity.exe
+C:\Users\ksomadas\Documents\GitHub\Teamcitytest\TestTeamCity\TestTeamCity\obj\Debug\TestTeamCity.pdb
